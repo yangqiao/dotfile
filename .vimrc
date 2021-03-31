@@ -22,7 +22,6 @@ let mapleader=","
 set binary
 set noeol
 
-set viminfo+=! " make sure vim history works
 map <C-J> <C-W>j<C-W>_ " open and maximize the split below
 map <C-K> <C-W>k<C-W>_ " open and maximize the split above
 set wmh=0 " reduces splits to a single line
