@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!.gitconfig
+!.xinitrc
+!.xsession
+!.Xresources
+!/.config
+/.config/*
+!/.config/alacritty/
+!/.config/awesome/
+!/.config/nixpkgs/
+!/.config/mimeapps.list
