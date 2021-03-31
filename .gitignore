@@ -6,6 +6,8 @@
 /.config/*
 !/.config/alacritty/
 !/.config/awesome/
-!/.config/nixpkgs/
+!/.config/fish
+!/.config/kak
 !/.config/mimeapps.list
-!/.config/kak/
+!/.config/nixpkgs
+!/.config/omf/
